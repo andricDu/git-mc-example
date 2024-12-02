@@ -1,0 +1,1 @@
+# git-mc-example
